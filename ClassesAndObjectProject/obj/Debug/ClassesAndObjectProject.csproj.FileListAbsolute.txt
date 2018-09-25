@@ -1,0 +1,10 @@
+C:\Users\PC002\AppData\Local\Temporary Projects\ClassesAndObjectProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PC002\AppData\Local\Temporary Projects\ClassesAndObjectProject\obj\Debug\ClassesAndObjectProject.Form1.resources
+C:\Users\PC002\AppData\Local\Temporary Projects\ClassesAndObjectProject\obj\Debug\ClassesAndObjectProject.Properties.Resources.resources
+C:\Users\PC002\AppData\Local\Temporary Projects\ClassesAndObjectProject\obj\Debug\ClassesAndObjectProject.csproj.GenerateResource.Cache
+C:\Users\PC002\AppData\Local\Temporary Projects\ClassesAndObjectProject\bin\Debug\ClassesAndObjectProject.exe
+C:\Users\PC002\AppData\Local\Temporary Projects\ClassesAndObjectProject\bin\Debug\ClassesAndObjectProject.pdb
+C:\Users\PC002\AppData\Local\Temporary Projects\ClassesAndObjectProject\obj\Debug\ClassesAndObjectProject.exe
+C:\Users\PC002\AppData\Local\Temporary Projects\ClassesAndObjectProject\obj\Debug\ClassesAndObjectProject.pdb
+D:\MOSCARE\ClassesAndObjectProject\ClassesAndObjectProject\obj\Debug\ClassesAndObjectProject.exe
+D:\MOSCARE\ClassesAndObjectProject\ClassesAndObjectProject\obj\Debug\ClassesAndObjectProject.pdb
